@@ -1,5 +1,6 @@
 DROP DATABASE IF EXISTS userdb;
 CREATE DATABASE userdb;
+USE userdb;
 
 DROP TABLE IF EXISTS `users`;
 CREATE TABLE `users` (
