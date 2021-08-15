@@ -1,2 +1,5 @@
 # JavaCRUDs
-This repository demonstrates CRUDs operations using ORM tool
+This repository demonstrates CRUD operations using JPA ORM tool
+
+---
+
