@@ -1,0 +1,19 @@
+com/example/JavaCRUDs/repository/entities/User.java
+ com.example.JavaCRUDs.repository.entities.User
+ com.example.JavaCRUDs.repository.entities.User$UserBuilder
+com/example/JavaCRUDs/service/UserService.java
+ com.example.JavaCRUDs.service.UserService
+com/example/JavaCRUDs/pojos/response/UserResponse.java
+ com.example.JavaCRUDs.pojos.response.UserResponse
+ com.example.JavaCRUDs.pojos.response.UserResponse$UserResponseBuilder
+com/example/JavaCRUDs/JavaCruDsApplication.java
+ com.example.JavaCRUDs.JavaCruDsApplication
+com/example/JavaCRUDs/pojos/request/UserRequest.java
+ com.example.JavaCRUDs.pojos.request.UserRequest
+ com.example.JavaCRUDs.pojos.request.UserRequest$UserRequestBuilder
+com/example/JavaCRUDs/repository/UserRepository.java
+ com.example.JavaCRUDs.repository.UserRepository
+com/example/JavaCRUDs/controller/UserController.java
+ com.example.JavaCRUDs.controller.UserController
+com/example/JavaCRUDs/dao/UserDAO.java
+ com.example.JavaCRUDs.dao.UserDAO
